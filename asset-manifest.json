@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/weather-insight/static/css/main.92e282aa.chunk.css",
+    "main.js": "/weather-insight/static/js/main.a0d7ec44.chunk.js",
+    "main.js.map": "/weather-insight/static/js/main.a0d7ec44.chunk.js.map",
+    "runtime-main.js": "/weather-insight/static/js/runtime-main.fbe6b580.js",
+    "runtime-main.js.map": "/weather-insight/static/js/runtime-main.fbe6b580.js.map",
+    "static/css/2.27dd871e.chunk.css": "/weather-insight/static/css/2.27dd871e.chunk.css",
+    "static/js/2.2ed9d0d0.chunk.js": "/weather-insight/static/js/2.2ed9d0d0.chunk.js",
+    "static/js/2.2ed9d0d0.chunk.js.map": "/weather-insight/static/js/2.2ed9d0d0.chunk.js.map",
+    "index.html": "/weather-insight/index.html",
+    "static/css/2.27dd871e.chunk.css.map": "/weather-insight/static/css/2.27dd871e.chunk.css.map",
+    "static/css/main.92e282aa.chunk.css.map": "/weather-insight/static/css/main.92e282aa.chunk.css.map",
+    "static/js/2.2ed9d0d0.chunk.js.LICENSE.txt": "/weather-insight/static/js/2.2ed9d0d0.chunk.js.LICENSE.txt",
+    "static/media/CurrentDay.module.css": "/weather-insight/static/media/blue sky blue white clouds.3764bb17.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbe6b580.js",
+    "static/css/2.27dd871e.chunk.css",
+    "static/js/2.2ed9d0d0.chunk.js",
+    "static/css/main.92e282aa.chunk.css",
+    "static/js/main.a0d7ec44.chunk.js"
+  ]
+}
